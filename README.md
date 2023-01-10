@@ -1,5 +1,5 @@
 # portfolio-with-graphql
-This is personal dynamic porfolio for everyone, can download to edit for personal use. This application builded with NodeJs, MongoDB, Express, with Apollow and GraphQL.
+This is personal dynamic porfolio for everyone, can download to edit for personal use. This application builded with NodeJs, ReactJs, Tailwind CSS, MongoDB, Express, with Apollow and GraphQL.
 This application server with front-end for and back-end.
 To run server:
   1- Navigate to server director and type ```npm install``` and then type ```npm start```, server will run at localhost:3001/graphql
